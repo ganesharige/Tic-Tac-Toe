@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+
 
 Here's an updated description with more symbols for a fun and engaging look:
 
@@ -27,7 +27,7 @@ A **classic Tic Tac Toe game** built with **HTML**, **CSS**, and **JavaScript**.
 ## 🚀 Getting Started
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/ganesharige/Tic-Tac-Toe.git
    ```  
 2. Open `index.html` in your browser to start playing.  
 
